@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from "styled-components";
 import photo from '../../../images/my-photo.webp'
 import {FlexWrapper} from "../../../components/FlexWrapper";
