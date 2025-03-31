@@ -5,6 +5,7 @@ import {Skills} from "./assets/layout/sections/skills/Skills";
 import {Works} from "./assets/layout/sections/works/Works";
 import {Testimony} from "./assets/layout/sections/testimony/Testimony";
 import {Contact} from "./assets/layout/sections/contacts/Contacts";
+import {Slogan} from "./assets/layout/sections/slogan/Slogan";
 
 function App() {
     return (
@@ -15,6 +16,7 @@ function App() {
             <Works/>
             <Testimony/>
             <Contact/>
+            <Slogan/>
         </div>
     )
 }
