@@ -20,5 +20,6 @@ const StyledMenu = styled.nav`
     gap: 30px;
     list-style: none;
     justify-content: center;
+    padding-inline-start: 0;
   }
 `

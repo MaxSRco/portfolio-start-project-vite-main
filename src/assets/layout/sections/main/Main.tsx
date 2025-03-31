@@ -7,8 +7,8 @@ export const Main = () => {
 		<StyledMain>
 			<FlexWrapper align={"center"} justify={"space-around"}>
 				<div>
-					<span>Hi There</span>
-					<Name>I am Sergey Maksimov</Name>
+					<span>Hi there</span>
+					<Name>I'm Sergey Maksimov</Name>
 					<MainTitle>A Web Developer. </MainTitle>
 				</div>
 				

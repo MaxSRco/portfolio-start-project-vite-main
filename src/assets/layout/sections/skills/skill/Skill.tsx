@@ -1,13 +1,13 @@
 import {Icon} from "../../../../components/icon/Icon";
 import styled from "styled-components";
 
-type SkillPropstype = {
+type SkillPropsType = {
 	iconId: string
 	title: string
 	description: string
 }
 
-export const Skill = (props: SkillPropstype) => {
+export const Skill = (props: SkillPropsType) => {
 	return (
 		<StyledSkill>
 			<Icon iconId={props.iconId}/>
