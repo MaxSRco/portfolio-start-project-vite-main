@@ -34,6 +34,10 @@ export const GlobalStyle = createGlobalStyle`
     border: none;
   }
   
+  section {
+    padding-block: 100px;
+  }
+  
   section:nth-of-type(odd) {
     background-color: ${theme.colors.primaryBg};
   }
