@@ -5,7 +5,7 @@ import {SectionTitle} from "../../../components/SectionTitle";
 export const Slogan = () => {
     return (
         <StyledSlogan>
-            <SectionTitle>Am Available For Freelance</SectionTitle>
+            <SectionTitle> I'm Available For Freelance</SectionTitle>
             <Button>Hire me</Button>
         </StyledSlogan>
     );

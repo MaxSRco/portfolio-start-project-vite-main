@@ -20,7 +20,7 @@ export const Skill = (props: SkillPropsType) => {
 const StyledSkill = styled.div`
 	width: 32%;
 	margin: 5px;
-	background-color: #fffafa;
+	background-color: #bd9393;
 `
 
 const SkillTitle = styled.h3`

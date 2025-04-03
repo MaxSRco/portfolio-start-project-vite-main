@@ -32,7 +32,7 @@ export const Footer = () => {
                         </SocialLink>
                     </SocialItem>
                 </SocialList>
-                <Copyright>© 2023 Sergey Maksimov. All Rights Reserved.</Copyright>
+                <Copyright>© 2025 Sergey Maksimov. All Rights Reserved.</Copyright>
             </FlexWrapper>
 
         </StyledFooter>
