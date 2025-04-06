@@ -3,16 +3,18 @@ import {Icon} from "../../../components/icon/Icon";
 import {SectionTitle} from "../../../components/SectionTitle";
 import {Slider} from "../../../components/slider/Slider";
 import {FlexWrapper} from "../../../components/FlexWrapper";
+import {Container} from "../../../components/Container";
 
 export const Testimony = () => {
     return (
         <StyledTestimony>
-            <SectionTitle>Testimony</SectionTitle>
-            <FlexWrapper direction={"column"} align={"center"}>
-                <Icon iconId={"quote"}/>
-                <Slider/>
-            </FlexWrapper>
-
+            <Container>
+                <SectionTitle>Testimony</SectionTitle>
+                <FlexWrapper direction={"column"} align={"center"}>
+                    <Icon iconId={"quote"}/>
+                    <Slider/>
+                </FlexWrapper>
+            </Container>
         </StyledTestimony>
     );
 };
