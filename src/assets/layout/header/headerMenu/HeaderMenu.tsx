@@ -30,6 +30,10 @@ const StyledHeaderMenu = styled.nav`
     justify-content: center;
     padding-inline-start: 0;
   }
+  
+  @media ${theme.media.tablet} {
+    display: none;
+  }
 `
 
 
