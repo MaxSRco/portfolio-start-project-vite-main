@@ -28,7 +28,7 @@ const StyledHeaderMenu = styled.nav`
     display: flex;
     gap: 30px;
     justify-content: center;
-    padding-inline-start: 0;
+    width: 100%;
   }
   
   @media ${theme.media.tablet} {
