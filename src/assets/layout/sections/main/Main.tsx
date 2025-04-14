@@ -22,7 +22,6 @@ export const Main = () => {
                                     strings: ['A Web Developer'],
                                     autoStart: true,
                                     loop: true,
-                                    pauseFor: 3000,
                                     delay: 180,
                                     cursor: '_',
                                 }}

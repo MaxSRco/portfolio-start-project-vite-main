@@ -38,7 +38,7 @@ export const Footer = () => {
                     </SocialList>
                     <Copyright>© 2025 Sergey Maksimov. All Rights Reserved.</Copyright>
                 </FlexWrapper>
-                <GoTopBtn title={"Go top"} xLinkHref={"#main"}>
+                <GoTopBtn title={"Go top"}>
                     <Icon iconId={"goTopBtn"} height={"15px"} width={"16px"} viewBox={"0 0 16px 15px"}/>
                 </GoTopBtn>
             </Container>
