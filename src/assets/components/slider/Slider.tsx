@@ -48,7 +48,7 @@ const Name = styled.span`
   font-size: 16px;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  margin-block: 22px 42px;
+  margin: 10px 0 30px;
 `
 
 const Pagination = styled.div`
@@ -68,6 +68,4 @@ const Pagination = styled.div`
       background-color: ${theme.colors.accent};
     }
   }
-  
-
 `

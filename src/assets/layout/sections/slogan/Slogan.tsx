@@ -9,7 +9,7 @@ export const Slogan = () => {
         <StyledSlogan>
             <Container>
                 <FlexWrapper direction={"column"} align={"center"}>
-                    <SectionTitle> I'm Available For Freelance</SectionTitle>
+                    <SectionTitle> I am Available For Freelance</SectionTitle>
                     <Button>Hire me</Button>
                 </FlexWrapper>
             </Container>
@@ -18,7 +18,5 @@ export const Slogan = () => {
 };
 
 const StyledSlogan = styled.section`
-  //min-height: 30vh;
-  //background-color: #bbfbc8;
 `
 
